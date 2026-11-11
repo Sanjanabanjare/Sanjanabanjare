@@ -8,7 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sanjanabanjare&label=Profile%20Views&color=f783ac&style=for-the-badge" alt="profile views" />
 <a href="https://github.com/Sanjanabanjare?tab=followers"><img src="https://img.shields.io/github/followers/Sanjanabanjare?style=for-the-badge&logo=github&color=ff9ecb&labelColor=d6336c" alt="followers" /></a>
 <a href="https://github.com/Sanjanabanjare"><img src="https://img.shields.io/github/stars/Sanjanabanjare?style=for-the-badge&logo=github&color=ffb6d9&labelColor=d6336c" alt="stars" /></a>
 
@@ -25,10 +24,6 @@
 
 ## 🌸 About Me
 
-<table>
-<tr>
-<td width="58%">
-
 I'm a passionate software developer who loves transforming creative ideas into **interactive digital experiences**. I enjoy building immersive 3D websites, intelligent applications, and scalable solutions while exploring emerging technologies. ✨
 
 ```js
@@ -39,15 +34,6 @@ const sanjana = {
   motto: "Dream it. Design it. Build it. Make it unforgettable. 🎀",
 };
 ```
-
-</td>
-<td width="42%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanabanjare&layout=donut&hide_border=true&bg_color=fff0f6&title_color=d6336c&text_color=6b2c4a&border_color=ffc2d9" width="100%" alt="Top languages" />
-
-</td>
-</tr>
-</table>
 
 > 💬 *"Dream it. Design it. Build it. Make it unforgettable."*
 
@@ -137,25 +123,6 @@ A UI/UX design turned into a live product. Replace this with your own descriptio
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanjanabanjare&show_icons=true&hide_border=true&count_private=true&bg_color=fff0f6&title_color=d6336c&icon_color=f783ac&text_color=6b2c4a&border_color=ffc2d9" alt="GitHub stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjanabanjare&hide_border=true&background=fff0f6&ring=d6336c&fire=f783ac&currStreakNum=6b2c4a&currStreakLabel=d6336c&sideNums=6b2c4a&sideLabels=d6336c&dates=a0617f" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjanabanjare&theme=flat&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjanabanjare&hide_border=true&bg_color=fff0f6&color=d6336c&line=f783ac&point=c2185b&area=true&area_color=ffb6d9&title_color=d6336c&custom_title=My%20Contribution%20Activity%20%F0%9F%8C%B8" width="100%" alt="Activity graph" />
-
-</div>
 
 ---
 
