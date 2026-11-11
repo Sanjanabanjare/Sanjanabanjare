@@ -1,190 +1,192 @@
-<div align="center">
-
-[![Sanjana Banjare — Computer Science Engineer and Full-Stack Developer, 3D animated banner](assets/sanjana-hero-3d.svg)](https://www.linkedin.com/in/sanjana-banjare/)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=701A3D&center=true&vCenter=true&width=700&lines=Namaste+%F0%9F%99%8F+I%27m+Sanjana+Banjare;Full-Stack+Developer;B.Tech+CSE+%40+Lovely+Professional+University;Backend+%E2%80%A2+React+%E2%80%A2+MongoDB)](https://github.com/Sanjanabanjare)
-
-![Profile views](https://komarev.com/ghpvc/?username=Sanjanabanjare&color=701A3D&style=flat&label=Profile+views)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjana--banjare-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3)](https://www.linkedin.com/in/sanjana-banjare/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sanjanabanjare-451126?style=for-the-badge&logo=github&logoColor=F8F0F3)](https://github.com/Sanjanabanjare)
-[![Email](https://img.shields.io/badge/Email-Sanjanabanjare2512%40gmail.com-E5B5C7?style=for-the-badge&logo=gmail&logoColor=451126)](mailto:Sanjanabanjare2512@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40yuki__asukaaa-C77B9B?style=for-the-badge&logo=instagram&logoColor=FFF9F6)](https://www.instagram.com/yuki_asukaaa/)
-
-**Jump to:** [👋 About](#about-me) · [🎮 Play](#play-with-my-profile) · [🧰 Tools](#languages--tools) · [📊 Stats](#github-stats) · [💻 Stack](#tech-stack) · [🏆 Trophies](#github-trophies) · [🧊 3D](#3d-contribution-graph--snake)
-
-</div>
-
-![Animated divider](assets/divider.svg)
-
-## 👋 About Me
-
-- 🌟 Building full-stack web apps — from REST APIs and databases to responsive dashboards
-- 💻 I work on front-end development and web design, and focus on backend development, data and APIs
-- 🎓 B.Tech in Computer Science and Engineering at Lovely Professional University, Phagwara
-- 🛠️ Node.js, Express.js and MongoDB, with experience in full-stack projects
-- 💬 Ask me about JavaScript, Node.js / Express, REST APIs, MongoDB and MySQL
-- ⚡ Interest in Artificial Intelligence, Machine Learning and backend systems
-- 📍 Based in Bilaspur, Chhattisgarh, India
-
-### 🌸 Follow Me on
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-701A3D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-banjare/)
-[![Gmail](https://img.shields.io/badge/Gmail-C77B9B?style=for-the-badge&logo=gmail&logoColor=451126)](mailto:Sanjanabanjare2512@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E5B5C7?style=for-the-badge&logo=instagram&logoColor=451126)](https://www.instagram.com/yuki_asukaaa/)
-[![GitHub](https://img.shields.io/badge/GitHub-451126?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjanabanjare)
-
-![Animated divider](assets/divider.svg)
-
-## 🎮 Play With My Profile
-
-Click any card below — it opens right here on GitHub, no new page needed.
-
-<details>
-<summary>👋 <b>Who are you? Pick one — I'll show you where to go</b></summary>
-<br>
-
-<details>
-<summary>💼 <b>I'm a recruiter</b></summary>
-<br>
-Start with my <a href="https://github.com/Sanjanabanjare?tab=repositories">repositories</a>, then say hi on <a href="https://www.linkedin.com/in/sanjana-banjare/">LinkedIn</a>. I build full-stack apps with Node.js, Express, React and MongoDB.
-</details>
-
-<details>
-<summary>🤝 <b>I want to collaborate</b></summary>
-<br>
-I'm open to hackathons and collaborative projects. Reach me on <a href="https://www.linkedin.com/in/sanjana-banjare/">LinkedIn</a> or by <a href="mailto:Sanjanabanjare2512@gmail.com">email</a> — tell me the idea and the stack, and we'll take it from there.
-</details>
-
-<details>
-<summary>🎓 <b>I'm a fellow student</b></summary>
-<br>
-Ask me about JavaScript, Node.js / Express, REST APIs, MongoDB or MySQL — happy to share what I've learned building full-stack projects.
-</details>
-
-</details>
-
-<details>
-<summary>❓ <b>Quick quiz — what do I build with most?</b></summary>
-<br>
-
-**A)** Only static pages &nbsp;·&nbsp; **B)** Full-stack apps — APIs + databases + dashboards &nbsp;·&nbsp; **C)** Only mobile apps
-
-<details>
-<summary>👉 <b>Click to reveal the answer</b></summary>
-<br>
-<b>B — full-stack apps.</b> APIs and databases on the backend, React dashboards on the frontend.
-</details>
-
-</details>
-
-<details>
-<summary>💡 <b>What am I focused on right now?</b></summary>
-<br>
-
-Advanced backend development — APIs, databases and authentication — and building full-stack projects with Node.js, Express, React and MongoDB.
-<br><br>
-Want to work together? → <a href="mailto:Sanjanabanjare2512@gmail.com">Sanjanabanjare2512@gmail.com</a>
-</details>
-
-![Animated divider](assets/divider.svg)
-
-## 🧰 Languages & Tools
+<!-- 
+  SETUP: Find & replace the following placeholders
+  YOUR_USERNAME  -> your GitHub username
+  YOUR NAME      -> your display name
+-->
 
 <div align="center">
 
-[![Languages and tools](https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,vite,tailwind,nodejs,express,mongodb,mysql,git,github,figma&theme=light)](https://github.com/Sanjanabanjare?tab=repositories)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=YOUR%20NAME&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=60&descSize=20" width="100%" alt="header" />
 
-👆 **Tap the icons above to open my repositories.**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+YOUR+NAME;Full-Stack+Developer;Open+Source+Enthusiast;Turning+ideas+into+clean+code" alt="Typing SVG" />
+</a>
 
-</div>
+<br/>
 
-![Animated divider](assets/divider.svg)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+<a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=2c5364" alt="followers" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=203a43" alt="stars" /></a>
 
-## 📊 GitHub Stats
+<br/><br/>
 
-<div align="center">
-
-![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjanabanjare&show_icons=true&title_color=701A3D&text_color=451126&icon_color=C77B9B&bg_color=FFF9F6&border_color=E5B5C7&hide_border=false)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanabanjare&layout=compact&title_color=701A3D&text_color=451126&bg_color=FFF9F6&border_color=E5B5C7&hide_border=false)
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjanabanjare&theme=light&background=FFF9F6&ring=701A3D&fire=C77B9B&currStreakLabel=701A3D&sideLabels=451126&dates=451126&border=E5B5C7)
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjanabanjare&bg_color=FFF9F6&color=451126&line=701A3D&point=C77B9B&area=true&hide_border=true)
-
-</div>
-
-Live data from GitHub — counts and languages come from your actual account, not from this file. If a stats card ever fails to load, it is the external service — remove that image line rather than replacing it with invented numbers.
-
-![Animated divider](assets/divider.svg)
-
-## 💻 Tech Stack
-
-<details open>
-<summary><b>👆 Click to expand / collapse my Tech Stack</b></summary>
-<br>
-
-![C](https://img.shields.io/badge/C-701A3D?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-451126?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-C77B9B?style=for-the-badge&logo=openjdk&logoColor=451126)
-![JavaScript](https://img.shields.io/badge/JavaScript-C9A227?style=for-the-badge&logo=javascript&logoColor=451126)
-![Python](https://img.shields.io/badge/Python-701A3D?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E5B5C7?style=for-the-badge&logo=html5&logoColor=451126)
-![CSS3](https://img.shields.io/badge/CSS3-C77B9B?style=for-the-badge&logo=css3&logoColor=FFF9F6)
-![React](https://img.shields.io/badge/React-451126?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-C9A227?style=for-the-badge&logo=vite&logoColor=451126)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-701A3D?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-451126?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-C77B9B?style=for-the-badge&logo=express&logoColor=FFF9F6)
-![MongoDB](https://img.shields.io/badge/MongoDB-701A3D?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-E5B5C7?style=for-the-badge&logo=mysql&logoColor=451126)
-![Git](https://img.shields.io/badge/Git-C9A227?style=for-the-badge&logo=git&logoColor=451126)
-![GitHub](https://img.shields.io/badge/GitHub-451126?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-C77B9B?style=for-the-badge&logo=figma&logoColor=FFF9F6)
-
-</details>
-
-![Animated divider](assets/divider.svg)
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Sanjanabanjare&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
-
-![Animated divider](assets/divider.svg)
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-</div>
-
-![Animated divider](assets/divider.svg)
-
-## 🧊 3D Contribution Graph & Snake
-
-These two animations are generated by GitHub Actions in this repository — they appear after the first workflow run, not instantly on push. The workflow files are included in this package under `.github/workflows/`.
-
-<div align="center">
-
-![3D contribution graph](profile-3d-contrib/profile-season-animate.svg)
-
-![Contribution snake](https://raw.githubusercontent.com/Sanjanabanjare/Sanjanabanjare/output/github-snake.svg)
-
-</div>
-
-> If either image is missing after publishing, open the **Actions** tab in the repo, run **Generate 3D Contribution Graph** and **Generate Snake** once, wait for them to finish, then refresh your profile.
 
 ---
 
+## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+```js
+const me = {
+  name: "YOUR NAME",
+  role: "Full-Stack Developer",
+  location: "Your City, Country",
+  currentlyBuilding: "Something awesome 🚀",
+  currentlyLearning: ["Rust", "System Design", "AI/ML"],
+  funFact: "I debug with coffee ☕",
+  openTo: ["Collaborations", "Open Source", "Freelance"],
+};
+```
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true&bg_color=0f2027" width="100%" alt="top langs" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧊 3D Contribution Universe
+
 <div align="center">
 
-![Thank you for visiting](assets/sanjana-footer.svg)
+<!-- Generated automatically by the workflow in .github/workflows/profile-3d.yml -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,go,rust,bash&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,figma&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,mysql&theme=dark" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,linux,vscode,postman&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&count_private=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f2027" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0f2027&area=true&custom_title=Contribution%20Activity" width="100%" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 [Project One](https://github.com/YOUR_USERNAME/project-one)
+Short description of what it does and why it matters.
+<br/>
+`React` `Node.js` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+### 🔹 [Project Two](https://github.com/YOUR_USERNAME/project-two)
+Short description of what it does and why it matters.
+<br/>
+`Python` `FastAPI` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔹 [Project Three](https://github.com/YOUR_USERNAME/project-three)
+Short description of what it does and why it matters.
+<br/>
+`TypeScript` `Next.js` `Tailwind`
+
+</td>
+<td width="50%">
+
+### 🔹 [Project Four](https://github.com/YOUR_USERNAME/project-four)
+Short description of what it does and why it matters.
+<br/>
+`Go` `Redis` `Kubernetes`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/project-one"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0f2027" /></a>
+<a href="https://github.com/YOUR_USERNAME/project-two"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0f2027" /></a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Generated by the snake workflow (Platane/snk) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Open to collaborations, interesting problems, and good conversations.
+
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Say%20Hello-00D9FF?style=for-the-badge&logo=maildotru&logoColor=0f2027" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
