@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1e3,50:ff9ecb,100:f783ac&height=240&section=header&text=Sanjana%20Banjare&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=twinkling&desc=%E2%9C%A8%20Full-Stack%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Creative%20Technologist%20%E2%9C%A8&descSize=17&descAlignY=58" width="100%" alt="Sanjana Banjare banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=D6336C&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Sanjana+%F0%9F%8C%B8;Turning+imaginative+ideas+into+digital+experiences+%E2%9C%A8;I+build+immersive+3D+websites+%F0%9F%8C%B7;Dream+it.+Design+it.+Build+it.+%F0%9F%8E%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=D6336C&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Sanjana+%F0%9F%8C%B8;Turning+imaginative+ideas+into+digital+experiences+%E2%9C%A8;I+build+immersive+3D+websites+%F0%9F%8C%B7;Dream+it.+Design+it.+Build+it.+%F0%9F%8E%80" alt="Typing SVG" />
 </a>
 
 <br/>
