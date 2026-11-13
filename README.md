@@ -141,18 +141,6 @@ A UI/UX design turned into a live product. Replace this with your own descriptio
 
 ---
 
-## 🌸 My Portfolio
-
-<div align="center">
-
-✨ View my full portfolio here: [sanjana-portfolio-vert.vercel.app](https://sanjana-portfolio-vert.vercel.app/)
-
-<a href="https://sanjana-portfolio-vert.vercel.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-d6336c?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
