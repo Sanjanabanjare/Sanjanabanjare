@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1e3,50:ff9ecb,100:f783ac&height=240&section=header&text=Sanjana%20Banjare&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=twinkling&desc=%E2%9C%A8%20Full-Stack%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Creative%20Technologist%20%E2%9C%A8&descSize=17&descAlignY=58" width="100%" alt="Sanjana Banjare banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=D6336C&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Sanjana+%F0%9F%8C%B8;Turning+imaginative+ideas+into+digital+experiences+%E2%9C%A8;I+build+immersive+3D+websites+%F0%9F%8C%B7;Dream+it.+Design+it.+Build+it.+%F0%9F%8E%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=D6336C&center=true&vCenter=true&width=900&lines=Hi%20there%2C%20I%27m%20Sanjana%20Banjare;Full-Stack%20Developer%20building%20immersive%203D%20web%20experiences;B.Tech%20CSE%20%40%20LPU%20%7C%20React%2C%20Node.js%2C%20Three.js;Building%20intelligent%20apps%20%26%20scalable%20solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,6 +18,7 @@
 <a href="mailto:Sanjanabanjare2512@gmail.com"><img src="https://img.shields.io/badge/Email-ff9ecb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.instagram.com/yuki_asukaaa/"><img src="https://img.shields.io/badge/Instagram-d6336c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://github.com/Sanjanabanjare"><img src="https://img.shields.io/badge/GitHub-ffb6d9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://sanjana-portfolio-vert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-d6336c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -103,18 +104,18 @@ const sanjana = {
 <tr>
 <td width="50%">
 
-### 🌸 [Project One](https://github.com/Sanjanabanjare/project-one)
-An immersive 3D website built with Three.js. Replace this with your own description.
+### 🌸 [EduVerse 3D](https://github.com/Sanjanabanjare/eduverse-3d)
+A browser-based virtual learning platform with separate Student, Teacher & Administrator portals — courses, assignments, live classroom & a webcam Vision Lab.
 <br/>
-`React` `Three.js` `CSS3`
+`HTML` `CSS` `JavaScript` `Node.js`
 
 </td>
 <td width="50%">
 
-### 🎀 [Project Two](https://github.com/Sanjanabanjare/project-two)
-A full-stack app with a REST API. Replace this with your own description.
+### 🎀 [GymPro](https://github.com/Sanjanabanjare/gympro)
+A full-stack fitness centre management platform — members, trainers, workout plans, schedules, attendance & renewals.
 <br/>
-`Node.js` `Express` `MongoDB`
+`React` `Node.js` `Express` `Tailwind CSS`
 
 </td>
 </tr>
@@ -137,6 +138,18 @@ A UI/UX design turned into a live product. Replace this with your own descriptio
 </td>
 </tr>
 </table>
+
+---
+
+## 🌸 My Portfolio
+
+<div align="center">
+
+✨ View my full portfolio here: [sanjana-portfolio-vert.vercel.app](https://sanjana-portfolio-vert.vercel.app/)
+
+<a href="https://sanjana-portfolio-vert.vercel.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-d6336c?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
+
+</div>
 
 ---
 
@@ -179,6 +192,7 @@ A UI/UX design turned into a live product. Replace this with your own descriptio
 
 I'd love to collaborate on creative, immersive and intelligent projects. Say hello! 🌷
 
+<a href="https://sanjana-portfolio-vert.vercel.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-d6336c?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
 <a href="mailto:Sanjanabanjare2512@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-f783ac?style=for-the-badge&logo=maildotru&logoColor=white" alt="Say hello" /></a>
 
 <br/><br/>
